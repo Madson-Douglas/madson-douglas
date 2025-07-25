@@ -46,7 +46,7 @@ align="left"
   />
    <img
 align="left"
-     alt="React JS"
+     alt="GitHub"
      title="GitHub"
      width="30px"
      style="padding-right: 10px"
