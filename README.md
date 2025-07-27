@@ -70,6 +70,14 @@ align="left"
   />
    <img
 align="left"
+     alt="GitLab"
+     title="GitLab"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+  />
+  <img
+align="left"
      alt="Visual Studio Code"
      title="Visual Studio Code"
      width="40px"
