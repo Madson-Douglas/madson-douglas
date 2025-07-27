@@ -68,3 +68,11 @@ align="left"
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
+   <img
+align="left"
+     alt="Visual Studio Code"
+     title="Visual Studio Code"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  />
