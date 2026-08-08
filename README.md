@@ -1,8 +1,29 @@
-## 📡 • Madson Douglas • 💻
+## 📡 • Madson Douglas Quaresma Silva • 💻
 
-**`téc. em Telecomunicações & dev. Front-End`**
+<!-- Formação Acadêmica -->
+**Bacharel em Engenharia da Computação** <br> 
+**Técnico em Telecomunicações** <br>
+**Desenvolvedor Front-End** <br>
 
-##
+<!-- Tecnologias -->
+## 💻 • Tecnologias •
+<img
+     align="left"
+     alt="HTML5"
+     title="HTML5"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+
+<img
+     align="left"
+     alt="CSS"
+     title="CSS"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
 
    <img
      align="left"
@@ -14,28 +35,33 @@
   />
    <img
      align="left"
-     alt="TypeScript"
-     title="TypeScript"
+     alt="Java"
+     title="Java"
      width="40px"
      style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   />
-   <img
+
+<img
      align="left"
-     alt="HTML"
-     title="HTML"
+     alt="PHP"
+     title="PHP"
      width="40px"
      style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
   />
-   <img
-     align="left"
-     alt="CSS"
-     title="CSS"
+
+
+<img
+align="left"
+     alt="Python"
+     title="Python"
      width="40px"
      style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+   />
+          
+   
    <img
      align="left"
      alt="React JS"
@@ -44,14 +70,7 @@
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
-   <img
-     align="left"
-     alt="SASS"
-     title="SASS"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-  />
+   
    <img
      align="left"
      alt="Git"
