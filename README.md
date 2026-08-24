@@ -3,7 +3,6 @@
 <!-- Formação Acadêmica -->
 **Bacharel em Engenharia da Computação** <br> 
 **Técnico em Telecomunicações** <br>
-**Desenvolvedor Front-End** <br>
 
 <!-- Tecnologias -->
 ## 💻 • Tecnologias •
@@ -105,3 +104,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
   />
+  
+<!-- Experiencias -->
