@@ -1,7 +1,7 @@
 ## 📡 • Madson Douglas Quaresma Silva • 💻
 
 <!-- Formação Acadêmica -->
-**Bacharel em Engenharia da Computação** <br> 
+**Bacharelado em Engenharia da Computação** <br> 
 **Técnico em Telecomunicações** <br>
 
 <!-- Tecnologias -->
@@ -103,6 +103,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
      width="40px"
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  />
-  
-<!-- Experiencias -->
+  />  
+  <br>
+<!-- Habilidades -->
+#### **• Sistemas Operacionais** <br>
+<img
+     align="left"
+     alt="Windows"
+     title="Windows"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://devicon-website.vercel.app/api/windows8/original.svg"
+     />
+
+<img
+     align="left"
+     alt="Linux Ubuntu"
+     title="Linux Ubuntu"
+     width="40px"
+     style="padding-right: 10px"
+     src="https://devicon-website.vercel.app/api/ubuntu/plain.svg"
+     />
+
