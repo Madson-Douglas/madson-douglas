@@ -85,7 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
      title="GitHub"
      width="40px"
      style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+     src="https://devicon-website.vercel.app/api/github/original.svg?color=%23F34F29"
   />
   
    <img
