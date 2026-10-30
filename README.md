@@ -4,7 +4,7 @@
 
 - _Bacharelado em Engenharia da Computação_
 - _Técnico em Telecomunicações_
-- _Desenvolvedor Front-End_
+- _Desenvolvedor Front-End Jr._
 
 <!-- Tecnologias -->
 
