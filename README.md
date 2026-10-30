@@ -1,20 +1,24 @@
-## 📡 • Madson Douglas Quaresma Silva • 💻
+# </> Madson Douglas
 
 <!-- Formação Acadêmica -->
-**Bacharelado em Engenharia da Computação** <br> 
-**Técnico em Telecomunicações** <br>
+
+- _Bacharelado em Engenharia da Computação_
+- _Técnico em Telecomunicações_
+- _Desenvolvedor Front-End_
 
 <!-- Tecnologias -->
-## 💻 • Tecnologias •
+
+## Tecnologias
+
 <img
-     align="left"
+     align="left" 
      alt="HTML5"
      title="HTML5"
      width="40px"
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
-  
+
 <img
      align="left"
      alt="CSS"
@@ -23,8 +27,8 @@
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
-  
-   <img
+
+<img
      align="left"
      alt="JavaScript"
      title="JavaScript"
@@ -32,16 +36,7 @@
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
-  
-   <img
-     align="left"
-     alt="Java"
-     title="Java"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  />
-  
+
 <img
      align="left"
      alt="PHP"
@@ -50,35 +45,17 @@
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
   />
-  
+
 <img
 align="left"
-     alt="Python"
-     title="Python"
-     width="40px"
-     style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-   />
-   
-   <img
-     align="left"
-     alt="React JS"
-     title="React JS"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  />
-  
-   <img
-     align="left"
-     alt="Git"
-     title="Git"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  
-   <img
+alt="C"
+title="C"
+width="40px"
+style="padding-right: 10px"
+src="https://devicon-website.vercel.app/api/c/original.svg"
+/>
+
+<img
      align="left"
      alt="GitHub"
      title="GitHub"
@@ -86,42 +63,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
      style="padding-right: 10px"
      src="https://devicon-website.vercel.app/api/github/original.svg?color=%23F34F29"
   />
-  
-   <img
-     align="left"
-     alt="GitLab"
-     title="GitLab"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
-  />
-  
-   <img
+
+<img
      align="left"
      alt="Visual Studio Code"
      title="Visual Studio Code"
      width="40px"
      style="padding-right: 10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  />  
-  <br>
-<!-- Habilidades -->
-#### **• Sistemas Operacionais** <br>
-<img
-     align="left"
-     alt="Windows"
-     title="Windows"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://devicon-website.vercel.app/api/windows8/original.svg"
-     />
+  /><br>
 
-<img
-     align="left"
-     alt="Linux Ubuntu"
-     title="Linux Ubuntu"
-     width="40px"
-     style="padding-right: 10px"
-     src="https://devicon-website.vercel.app/api/ubuntu/plain.svg"
-     />
+## <br>Sobre
+- _Estudante de Engenharia da Computação (Bacharelado) na Estácio, atualmente no 1º período, e estagiário de Suporte ao Usuário. Técnico em Telecomunicações formado pelo IFPA, com experiência em Suporte de TI, atendimento ao usuário, infraestrutura e manutenção de computadores. Busco desenvolver continuamente meus conhecimentos e construir uma carreira sólida na área de Tecnologia da Informação._
 
+<!-- Contatos -->
+##
+<a href="https://www.instagram.com/madson.eng" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:madson.quaresma01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/madson-silva-102484261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
